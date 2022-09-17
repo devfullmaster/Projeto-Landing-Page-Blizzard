@@ -1,7 +1,7 @@
 <h1 align="center" id="topo">Redesign Landing Page Blizzard</h1>
 
 <div align="center">
-<img width='600px' src="./img/mockup1.png" width="35px"/>
+<img width='600px' src="./img/mockup-blizzard.png" width="35px"/>
 </div>
 
 
